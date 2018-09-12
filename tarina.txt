@@ -1,1 +1,1 @@
-Tässä on hieman tekstiä koneella
+Tässä on hieman tekstiä koneella ja GitHubissa
