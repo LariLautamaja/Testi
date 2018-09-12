@@ -1,5 +1,5 @@
 Ostoslista
-
+Uusi muutos
 Maitoa
 Kaljaa
 Korvapuusteja
@@ -12,4 +12,3 @@ Lisää kaljaa
 
 Vielä enemmän kaljaa
 Kaksi lavaa kaljaa
-Uusi muutos
